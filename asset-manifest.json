@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dersplanlama/static/css/main.6bdae202.css",
+    "main.js": "/dersplanlama/static/js/main.11269e0e.js",
+    "static/js/952.dae6fa6f.chunk.js": "/dersplanlama/static/js/952.dae6fa6f.chunk.js",
+    "index.html": "/dersplanlama/index.html",
+    "main.6bdae202.css.map": "/dersplanlama/static/css/main.6bdae202.css.map",
+    "main.11269e0e.js.map": "/dersplanlama/static/js/main.11269e0e.js.map",
+    "952.dae6fa6f.chunk.js.map": "/dersplanlama/static/js/952.dae6fa6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bdae202.css",
+    "static/js/main.11269e0e.js"
+  ]
+}
